@@ -1,0 +1,15 @@
+.title-WhatWeDo {
+  background-image: url(../../images/WHATWEDO.svg);
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.getinTouchBtn .btn {
+  background: linear-gradient(90deg, #ef8431 0%, #e71a86 100%);
+  color: white;
+  border-radius: 25px;
+}
+/* .departmentsec {
+  background-image: url(../../images/Group\ 428.svg);
+  background-position: center center;
+  background-repeat: no-repeat;
+} */

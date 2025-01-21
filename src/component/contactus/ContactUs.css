@@ -1,0 +1,6 @@
+.btn-submit {
+  color: white;
+  background: linear-gradient(90deg, #ef8431 0%, #e71a86 100%);
+  border-radius: 25px;
+  padding: 10px 40px;
+}

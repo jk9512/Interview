@@ -1,0 +1,12 @@
+.header-wrapper {
+  background-image: url(../../images/Group\ 426.svg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header-title {
+  background: linear-gradient(to right, #ef8431 0%, #e71a86 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+}
