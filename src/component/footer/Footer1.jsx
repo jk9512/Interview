@@ -64,7 +64,7 @@ const Footer1 = () => {
         </div>
       </div>
       <div className="bottom-footer">
-        <div className="d-flex justify-content-between align-items-end container">
+        <div className="d-flex flex-wrap justify-content-between align-items-end container">
           <img src={footerImg} alt="" className="img-fluid" />
           <p>2019 All right reserved by Tech Erudite </p>
         </div>
