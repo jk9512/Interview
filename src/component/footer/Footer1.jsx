@@ -4,6 +4,7 @@ import FaceBook from "../../images/fb.svg";
 import Twitter from "../../images/twwiter.svg";
 import Linkedin from "../../images/linkedin.svg";
 import footerImg from "../../images/footer-img.svg";
+import rightArrow from "../../images/rightArrow.svg";
 import "./footer.css";
 
 const Footer1 = () => {
@@ -61,6 +62,12 @@ const Footer1 = () => {
             Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. Lorem Ipsum has been the industry's.
           </p>
+          <div className="position-relative subscription-btn">
+            <input type="text" className="w-100" />
+            <button type="button" className="position-absolute">
+              <img src={rightArrow} alt="rightArrow" className="img-fluid" />
+            </button>
+          </div>
         </div>
       </div>
       <div className="bottom-footer">

@@ -111,7 +111,7 @@ const Header = () => {
           </div>
         </nav>
 
-        <div className="d-flex align-items-center flex-wrap">
+        <div className="d-flex align-items-center flex-wrap py-md-5 py-4">
           <div className="col-md-6 pe-5">
             <h1 className="header-title">About Us</h1>
             <p>
