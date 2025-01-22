@@ -63,7 +63,7 @@ const Footer1 = () => {
             industry. Lorem Ipsum has been the industry's.
           </p>
           <div className="position-relative subscription-btn">
-            <input type="text" className="w-100" />
+            <input type="text" className="w-100" placeholder="Enter Email" />
             <button type="button" className="position-absolute">
               <img src={rightArrow} alt="rightArrow" className="img-fluid" />
             </button>
